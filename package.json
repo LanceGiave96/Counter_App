@@ -1,0 +1,11 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Only for Lazy person who have to do boring and annoing jobs of counting things, with this app i hope to cheer up their routines 🤗​😆​",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LanceGiave96",
+  "license": ""
+}
